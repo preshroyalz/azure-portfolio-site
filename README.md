@@ -20,6 +20,9 @@ This is a simple portfolio website hosted using Azure Blob Storage static websit
 ## 🔗 Live Site
 [Visit Site](https://preciousstaticwebsite.z6.web.core.windows.net/)
 
+<img width="922" height="540" alt="live website" src="https://github.com/user-attachments/assets/6cb2b1a1-7f80-4b3e-bb42-5d5ae89fc4b9" />
+
+
 ## Here I tested the 404 page by manually entering a wrong or non-existent path.
 testing 404 page [Visit Site](https://preciousstaticwebsite.z6.web.core.windows.net/contactus)
 <img width="1843" height="1079" alt="image" src="https://github.com/user-attachments/assets/948bd69b-22bf-4c0f-b9a0-e19ba27dc72e" />
